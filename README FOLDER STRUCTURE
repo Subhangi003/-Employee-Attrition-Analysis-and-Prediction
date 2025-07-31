@@ -1,0 +1,7 @@
+hr-attrition-analysis/
+├── data/
+│   └── HR-Employee-Attrition.csv
+├── notebooks/
+│   └── HR_Attrition_Analysis.ipynb
+├── README.md
+└── requirements.txt
